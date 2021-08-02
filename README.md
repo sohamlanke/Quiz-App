@@ -1,4 +1,4 @@
-# multiplicationtables1
+# Quiz App - Multiplication Tables
 
 A new Flutter application.
 
