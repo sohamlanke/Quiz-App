@@ -1,9 +1,9 @@
 # Quiz App - Multiplication Tables
 
-Thia is a simple multiplication tables quiz app which even generates tables of any number to learn from.
+This is a simple multiplication tables quiz app which even generates tables of any number to learn from.
 PS: I made this app for my younger sister :)
 
-Screenshots :
+**Screenshots :**
 
 
 
