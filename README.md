@@ -16,8 +16,9 @@ PS: I made this app for my younger sister :)
  </p>
  <p float="left">
 <img src = "https://user-images.githubusercontent.com/55442850/136697498-643a37f3-def1-467a-8789-b6b75abc8f06.jpeg" height=30% width=30%>
+ <img src = "https://user-images.githubusercontent.com/55442850/136697505-0cdf8341-eee4-456e-8330-c5c441148465.jpeg" height=30% width=30%>
 <img src = "https://user-images.githubusercontent.com/55442850/136697504-516b0ccf-9a93-4ece-a75e-f11137b67b9b.jpeg" height=30% width=30%>
-<img src = "https://user-images.githubusercontent.com/55442850/136697505-0cdf8341-eee4-456e-8330-c5c441148465.jpeg" height=30% width=30%>
+
  </p>
 
 <!-- ![WhatsApp Image 2021-10-10 at 6 46 49 PM (2)](https://user-images.githubusercontent.com/55442850/136697498-643a37f3-def1-467a-8789-b6b75abc8f06.jpeg){:height="50%" width="50%"}
